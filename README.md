@@ -20,11 +20,11 @@ I design and execute real-world security labs simulating enterprise environments
 
 ## 🚀 Security Projects
 
-### 🛡️ Incident Response Simulation — Ransomware & Brute Force
+### 🛡️ Incident Response Simulation — Brute Force
 
 **Tools:** Microsoft Sentinel, Defender for Endpoint, Azure
 
-* Simulated RDP brute-force attack followed by ransomware execution
+* Simulated RDP brute-force attack
 * Analyzed Windows Security Events and EDR telemetry to determine root cause and attack progression
 * Investigated attacker behavior using KQL queries in Microsoft Sentinel
 * Executed containment and response actions aligned with NIST 800-61

@@ -1,5 +1,4 @@
 # <a href="https://www.linkedin.com/in/tramarcus-gipson-b12561175/">Tramarcus Gipson</a>'s IT and Cybersecurity Project Portfolio 🔐
-
 ### Cybersecurity Analyst | SOC | IAM | Cloud Security
 
 ---

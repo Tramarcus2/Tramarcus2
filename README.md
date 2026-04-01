@@ -1,5 +1,158 @@
 # <a href="https://www.linkedin.com/in/tramarcus-gipson-b12561175/">Tramarcus Gipson</a>'s IT and Cybersecurity Project Portfolio 🔐
 
+# 👋 Tramarcus Gipson
+
+### Cybersecurity Analyst | SOC | IAM | Cloud Security
+
+---
+
+## 🔐 About Me
+
+Cybersecurity Analyst with hands-on experience in **incident response, threat detection, vulnerability management, and identity security** across Windows and Linux environments.
+
+I design and execute real-world security labs simulating enterprise environments using:
+
+* Microsoft Sentinel (SIEM)
+* Microsoft Defender for Endpoint (EDR)
+* Azure Cloud Infrastructure
+* Tenable Vulnerability Management
+
+📌 Currently pursuing **CompTIA CySA+** and targeting **SOC Analyst / Cybersecurity Engineer roles**
+
+---
+
+## 🚀 Security Projects
+
+### 🛡️ Incident Response Simulation — Ransomware & Brute Force
+
+**Tools:** Microsoft Sentinel, Defender for Endpoint, Azure
+
+* Simulated RDP brute-force attack followed by ransomware execution
+* Analyzed Windows Security Events and EDR telemetry to determine root cause and attack progression
+* Investigated attacker behavior using KQL queries in Microsoft Sentinel
+* Executed containment and response actions aligned with NIST 800-61
+
+👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+
+---
+
+### 🔍 Threat Hunt: Unauthorized TOR Usage Detection
+
+**Tools:** Microsoft Defender, KQL, Azure
+
+* Detected TOR activity using process execution, network connections, and endpoint telemetry
+* Built an investigation timeline identifying suspicious encrypted outbound traffic
+* Developed detection logic to improve visibility into anonymized network activity
+
+👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+
+---
+
+### ⚠️ Vulnerability Management Program Implementation
+
+**Tools:** Tenable, Azure VMs, PowerShell
+
+* Built end-to-end vulnerability management lifecycle including authenticated scanning, prioritization, and remediation
+* Applied CVSS-based risk scoring to prioritize vulnerabilities
+* Achieved full remediation of critical vulnerabilities through PowerShell-driven patching
+
+👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+
+---
+
+### 📡 Threat Detection & Data Exfiltration Analysis Lab
+
+**Tools:** Wireshark, Microsoft Sentinel, KQL, VirusTotal, AbuseIPDB, Azure
+
+* Analyzed packet captures to identify suspicious DNS queries, POST requests, and potential data exfiltration activity
+* Correlated network indicators (IP addresses, domains) with Windows Security Events and Sentinel logs
+* Validated indicators of compromise using OSINT sources
+
+👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+
+---
+
+### 🔐 Zero Trust Identity & Access Security Lab
+
+**Tools:** Microsoft Entra ID, Conditional Access, MFA
+
+* Configured Entra ID users, groups, and RBAC roles to enforce least-privilege access
+* Implemented Conditional Access policies including MFA, device compliance, and location-based restrictions
+* Simulated identity-based attack scenarios and analyzed authentication logs
+
+👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+
+---
+
+## 🧠 Technical Skillset
+
+**Security Operations:**
+SIEM (Microsoft Sentinel), Incident Response, Threat Detection, Log Analysis
+
+**Endpoint Security:**
+Microsoft Defender for Endpoint, Behavioral Analysis, Threat Hunting
+
+**Cloud Security:**
+Microsoft Azure, Log Analytics Workspace
+
+**Identity & Access Management:**
+Entra ID, RBAC, Conditional Access, MFA
+
+**Vulnerability Management:**
+Tenable, Nessus, CVE/CVSS, Patch Management
+
+**Tools & Technologies:**
+Wireshark, Nmap, Hydra, VirusTotal, AbuseIPDB
+
+**Scripting:**
+PowerShell, Bash, KQL
+
+---
+
+## 📊 What Sets My Work Apart
+
+* Simulates real-world enterprise attack scenarios
+* Aligns investigations with NIST 800-61 and MITRE ATT&CK
+* Combines SIEM, EDR, network analysis, and OSINT
+* Demonstrates full security lifecycle: detection → investigation → response → remediation
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tramarcus-gipson-b12561175/
+* 📧 Email: [tramarcusgipson2@gmail.com](mailto:tramarcusgipson2@gmail.com)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 

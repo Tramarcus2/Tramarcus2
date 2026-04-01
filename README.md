@@ -41,7 +41,7 @@ I design and execute real-world security labs simulating enterprise environments
 * Built an investigation timeline identifying suspicious encrypted outbound traffic
 * Developed detection logic to improve visibility into anonymized network activity
 
-👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+👉 **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Tramarcus2/threat-hunting-scenario-tor)**
 
 ---
 

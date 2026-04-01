@@ -29,7 +29,7 @@ I design and execute real-world security labs simulating enterprise environments
 * Investigated attacker behavior using KQL queries in Microsoft Sentinel
 * Executed containment and response actions aligned with NIST 800-61
 
-👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+👉 **[Incident Response Lab (Brute Force)](https://github.com/Tramarcus2/Incident-response-ransomware-lab)**
 
 ---
 

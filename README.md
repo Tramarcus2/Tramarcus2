@@ -14,7 +14,7 @@ I design and execute real-world security labs simulating enterprise environments
 * Azure Cloud Infrastructure
 * Tenable Vulnerability Management
 
-📌 Currently pursuing **CompTIA CySA+** and targeting **SOC Analyst / Cybersecurity Engineer roles**
+📌 Currently targeting **Cyber Security Analyst, IAM, and Cybersecurity Engineer roles**
 
 ---
 
@@ -53,7 +53,7 @@ I design and execute real-world security labs simulating enterprise environments
 * Applied CVSS-based risk scoring to prioritize vulnerabilities
 * Achieved full remediation of critical vulnerabilities through PowerShell-driven patching
 
-👉 **[View Project](REPLACE_WITH_YOUR_LINK)**
+👉 **[Vulnerability Management Program Implementation](https://github.com/Tramarcus2/Vulnerability-Management-Program)**
 
 ---
 
